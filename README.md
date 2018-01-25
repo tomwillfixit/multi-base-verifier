@@ -12,4 +12,5 @@ This is just a little POC. It should just work out of the box.
 
 ## Output
 
-[demo](./demo.gif)
+![Alt Text](https://github.com/tomwillfixit/multi-base-verifier/blob/master/demo.gif)
+
